@@ -8,3 +8,4 @@ function sum(){
     var z = x + y;
     alert(z);
 }
+
